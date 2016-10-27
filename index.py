@@ -54,4 +54,4 @@ for c in string:
 
 piano_c_chord.instruments.append(piano)
 
-piano_c_chord.write(input_string+'.mid')
+piano_c_chord.write(input_string + '.mid')
